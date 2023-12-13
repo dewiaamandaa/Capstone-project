@@ -11,7 +11,7 @@ if peruntukan == "1":
     print("Fase Ternak\n"+
           "1. Starter\n"+
           "2. Grower\n"+
-          "3. Finisher"
+          "3. Layer"
     )
     fase = str(
        input("Masukkan angka yang sesuai: ")
